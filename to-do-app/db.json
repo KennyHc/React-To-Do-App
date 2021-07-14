@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Cleaning",
+      "day": "July 17th",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Buy apples",
+      "day": "July 16th",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Buy apples",
+      "day": "July 15th, 2021",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Prepare a cake",
+      "day": "August 4th, 2021",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Finish homework",
+      "day": "December 1st, 2021",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
